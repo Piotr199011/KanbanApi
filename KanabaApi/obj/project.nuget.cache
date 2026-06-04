@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a8ETr91Bp3A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\KanabaApi\\KanabaApi\\KanabaApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
